@@ -5,8 +5,6 @@ function connect_db() {
  $password = "roDU4b88f";
  $dbname = "a1704464";
  // Create connection
-GIT Exercises 4 (12)
-29.12.2018
  $conn = new mysqli($servername, $username, $password, $dbname);
  // Check connection
  if ($conn->connect_error) {
