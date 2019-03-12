@@ -21,8 +21,6 @@ print("<html>");
  }
  } else {
  echo "0 results";
-GIT Exercises 8 (13)
-29.12.2018
  }
  print("<br><br>");
  print("Insert new");
